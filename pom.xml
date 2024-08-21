@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>org.ars.one</module>
+        <module>org.ars.service.provider</module>
         <module>org.ars.two</module>
     </modules>
 

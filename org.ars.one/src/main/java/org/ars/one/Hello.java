@@ -1,4 +1,4 @@
-package org.ars.two.one;
+package org.ars.one;
 
 public class Hello {
     public void hello() {
